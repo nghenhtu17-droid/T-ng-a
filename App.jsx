@@ -1,12 +1,1 @@
-// React component code
-import React from 'react';
-
-const App = () => {
-    return (
-        <div>
-            <h1>Hello, World!</h1>
-        </div>
-    );
-};
-
-export default App;
+Update App.jsx with the React App component.
